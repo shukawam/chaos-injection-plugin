@@ -1,5 +1,5 @@
-[![Unix build](https://img.shields.io/github/actions/workflow/status/Kong/kong-plugin/test.yml?branch=master&label=Test&logo=linux)](https://github.com/Kong/kong-plugin/actions/workflows/test.yml)
-[![Luacheck](https://github.com/Kong/kong-plugin/workflows/Lint/badge.svg)](https://github.com/Kong/kong-plugin/actions/workflows/lint.yml)
+[![Unix build](https://img.shields.io/github/actions/workflow/status/shukawam/chaos-injection-plugin/test.yml?branch=main&label=Test&logo=linux)](https://github.com/shukawam/chaos-injection-plugin/actions/workflows/test.yml)
+[![Luacheck](https://github.com/shukawam/chaos-injection-plugin/workflows/Lint/badge.svg)](https://github.com/shukawam/chaos-injection-plugin/actions/workflows/lint.yml)
 
 Kong plugin template
 ====================
